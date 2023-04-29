@@ -2,9 +2,9 @@ import React from 'react'
 
 const Section = () => {
   return (
-    <div className='max-w-[1200px] m-auto md:h-[600px] h-[800px] bg-white py-[70px]'>
-        <div className=' justify-between md:grid grid-cols-2 '>
-        <div className='w-[100%]'>
+    <div id='service' className='max-w-[1200px] m-auto md:h-[600px] h-[800px] bg-white py-[70px]'>
+        <div className=' justify-between m-auto md:grid grid-cols-2 '>
+        <div className=''>
             <h1 className='font-bold text-3xl text-blue-500'> <span className='underline underline-offset-4'>What </span> is Hernia?</h1>
             <p className='py-4 '>Hernias are very common. Each year roughly 5 million Americans
 experience a hernia, and over one million hernia repair surgeries are

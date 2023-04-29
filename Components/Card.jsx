@@ -2,7 +2,7 @@ import React from 'react'
 
 const Card = () => {
   return (
-    <div className='max-w-[1200px] m-auto h-[1400px] md:h-[600px] bg-blue-100/60'>
+    <div id='recovery' className='max-w-[1200px] m-auto h-[1400px] md:h-[600px] bg-blue-100/60'>
      
        <h1 className='font-bold text-blue-500 text-3xl pb-10 text-center pt-10'>Types of Hernia</h1>
        <div className='md:flex gap-10'>

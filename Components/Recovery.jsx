@@ -2,7 +2,7 @@ import React from 'react'
 
 const Recovery = () => {
   return (
-    <div className='max-w-[1200px] h-[1500px] md:h-[600px] bg-white py-20 m-auto'>
+    <div  className='max-w-[1200px] h-[1500px] md:h-[600px] bg-white py-20 m-auto'>
         <div className='text-blue-500 font-bold text-3xl'>
             <h1>Hernia don’t heal on their own.</h1>
             <h1>Understanding your treatment options is the first step of recovery</h1>
